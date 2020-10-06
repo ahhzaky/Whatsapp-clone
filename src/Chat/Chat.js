@@ -1,9 +1,10 @@
-import React from "react";
 import "./Chat.css";
 import { Avatar, IconButton } from "@material-ui/core";
 import DonutLargeIcon from "@material-ui/icons/DonutLarge";
 import AttachFileIcon from "@material-ui/icons/AttachFile";
 import MoreVertIcon from "@material-ui/icons/MoreVert";
+
+import React from "react";
 
 function Chat() {
   return (
